@@ -3,7 +3,7 @@
 ## Что это?
 
 В данном репозитории находится программа которая поможет определить ваш уровень коммуникабельности.
-Она основана на [Named Link](http://www.syntone-spb.ru/library/article_syntone/content/4969.html 'следующем материале')
+Она основана на [следующем материале](http://www.syntone-spb.ru/library/article_syntone/content/4969.html 'следующем материале')
 
 ## Установка
 
